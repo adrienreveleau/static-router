@@ -1,6 +1,6 @@
 # CloudFront Static Router Function
 
-A minimal CloudFront function for static Astro sites. This function rewrites URLs without file extensions to serve the corresponding HTML files.
+A minimal CloudFront function for static sites. This function rewrites URLs without file extensions to serve the corresponding HTML files.
 
 ## Overview
 
